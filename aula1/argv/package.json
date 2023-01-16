@@ -1,0 +1,23 @@
+{
+  "name": "aula1_argv",
+  "version": "1.0.0",
+  "description": "Aula 1 do caio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fexdelux/aula_nodejs.git"
+  },
+  "keywords": [
+    "aula"
+  ],
+  "author": "Fernando Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fexdelux/aula_nodejs/issues"
+  },
+  "homepage": "https://github.com/fexdelux/aula_nodejs#readme"
+}
