@@ -52,7 +52,9 @@ Campos de Informações:
 ## Desenvolvimento
 
 Cada funcionalidade será um modulo.
+
 Cada modulo será exportado como Classe.
+
 As classe de cadastro deverá ter os metodos de : 
 - Salva
 - Alterar
